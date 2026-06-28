@@ -10,11 +10,11 @@ Questions that need answers before making or firming up an offer. Grouped by who
 - [ ] **Belfor cleaning** — get the actual scope of work and invoice. What specifically did they clean and why?
 - [ ] **Executor timeline** — when does the estate need to close? Are beneficiaries applying pressure? Urgency = leverage
 - [ ] **Estate liens** — are there any mortgages, mechanic's liens, or other debts secured against either parcel?
-- [ ] **Survey** — is there a current survey on file for both parcels? Where are the parcel boundaries exactly?
+- [ ] **Survey** — ~~is there a current survey?~~ **A 1997 topo survey exists** (done at time of house move). Get a copy from the estate. Parcel boundaries are on file.
 - [ ] **Structural shoring disclosure** — has the tree trunk / pipe column situation in the basement been formally disclosed on the seller disclosure statement? If not, why not?
-- [ ] **Well + septic records** — last inspection date, any prior failures or repairs, location of septic field
+- [ ] **Well + septic records** — last inspection date, any prior failures or repairs, location of septic field relative to the topo (important — septic fields have slope and setback requirements)
 - [ ] **1997 foundation move permits** — were permits pulled and closed for the 1997 house relocation? Verify at Washtenaw County records
-- [ ] **Easements** — are there any utility, access, or conservation easements on either parcel?
+- [ ] **Easements** — county parcel map shows no conservation or farmland easements on either parcel, but confirm utility easements along Hickman Rd frontage
 
 ---
 
@@ -42,8 +42,10 @@ Questions that need answers before making or firming up an offer. Grouped by who
 - [ ] **Demo cost estimate** — get a quote from a licensed demolition contractor for removing a 1,679 sqft 1929 brick structure. Note: asbestos/lead abatement required first
 - [ ] **Asbestos + lead paint survey cost** — 1929 structure, pre-1978, both are essentially guaranteed. Get a quote for a licensed survey + abatement estimate
 - [ ] **Poison ivy remediation** — quote for professional treatment across 6+ acres
-- [ ] **Land clearing estimate** — quote for chainsaw + stump grinding + haul on the upland portions (away from ponds)
-- [ ] **New septic design cost** — if demolishing and rebuilding, the septic system may need to be redesigned and permitted for the new structure's location
+- [ ] **Land clearing estimate** — quote for chainsaw + stump grinding + haul on the upland portions (away from ponds). Account for steep grades on south/west — harder work than flat clearing
+- [ ] **Grading estimate** — if you want to create a flat pad for a new structure on sloped terrain, get a cut-and-fill grading quote
+- [ ] **New septic design cost** — if demolishing and rebuilding, septic needs to be redesigned; must account for terrain slope and setback from ponds/wetlands
+- [ ] **Where exactly are the usable flat zones?** — get the 1997 topo survey and identify the plateau areas. This determines where a new structure could realistically go without major grading
 
 ---
 

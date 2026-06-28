@@ -82,6 +82,17 @@ Cash only listing. $449K ask (already cut $50K five days after listing). 37+ day
 - Excavator rental: ~$500–1,500/day depending on size. You can move a lot of dirt and pull stumps in a few days with a decent machine
 - Poison ivy has to come first — you can't safely chainsaw through dense poison ivy. Treat it (herbicide or professional remediation) before clearing work
 - The whole process is doable but it's a multi-month project before the land feels open
+- **The steep terrain complicates clearing** — south and west portions of the property have serious grades (see topo survey). Chainsaw work on a slope with downed trees is harder and more dangerous. Excavator is more valuable here than on flat land.
+- If you want to level any area for a pad or structure, you're looking at cut-and-fill grading work, not just clearing
+
+## Terrain / Topography (from 1997 Survey)
+
+- A topographic survey from March 1997 exists — done when the house was moved. The estate should have it.
+- The land is genuinely rolling. Significant grade change across the property, steepest on the south and west sides.
+- The house sits on a mid-parcel high point. The ponds sit in natural drainage depressions.
+- **Usable flat area is much less than 6 acres.** The realistic build zones are: the plateau around the current house, and the 1-acre south parcel (garage parcel, which looks more open in aerial).
+- The steep zones are beautiful but constrain where you can build without significant grading/retaining work.
+- Any new construction on sloped terrain = grading permit + retaining walls potentially + engineered foundation
 
 ---
 
